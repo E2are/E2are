@@ -36,7 +36,7 @@
 ![Badge](https://img.shields.io/badge/Blender-ffffff?style=flat-square&logo=Blender&logoColor=orange)
 
 ---
-![Jinhyeon Kim's GitHub state](https://github-readme-stats.vercel.app/api?username=E2are&show_icons=true&theme=transparent)
+![Choi seong jun's GitHub state](https://github-readme-stats.vercel.app/api?username=E2are&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E2are&layout=compact&theme=transparent)
 
 </div>
