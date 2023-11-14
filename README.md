@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hello, I'm Seongjun
+# ⭐️Hello, I'm Seongjun⭐️
 
 <img src="https://github.com/E2are/E2are/blob/main/hermetos.posing.gif" width="50%">
 
